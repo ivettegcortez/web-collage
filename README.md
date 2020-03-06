@@ -3,6 +3,8 @@ This is a remix to Theresa Lin's HTML and CSS project.
 _**The original project made by Theresa can be found by going to her github and seeing her repository [here!](https://github.com/theresa-546/web-collage
 )**_
 
+_**To see her original project from her live page feel free to click [here.](http://i6.cims.nyu.edu/~tl2401/HTML%20and%20CSS/)**_
+
 _From what I got from the original project was that it was a chill vibe from the city of Tokyo._
 _I wanted to remix it so that I could keep the same kind of chill vibe with a different look._
 
